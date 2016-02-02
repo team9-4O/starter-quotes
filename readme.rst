@@ -1,3 +1,22 @@
+if (condition)
+{
+//stuff
+}
+else if(condition)
+{
+  //other stuff
+}
+else
+  //last stuff
+  
+}
+
+coding style aman
+team9-4O
+
+Colin Bose - Tom Tang - Eunwon Moon
+
+
 #######################
 Starter Webapp - Quotes
 #######################
