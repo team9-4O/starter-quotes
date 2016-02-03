@@ -37,8 +37,9 @@
 | in the URL cannot be matched to a valid route.
 |
 */
-
+$route['default_controller'] = 'Welcome';
 $route['sleep'] = "First/zzz";
+$route['lock/*:any/*:any'] = "Welcome/shucks";
 $route['404_override'] = '';
 
 
