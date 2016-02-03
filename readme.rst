@@ -1,4 +1,6 @@
 Hello  Everyone
+I hate one third of my team 
+
 if (condition)
 {
 //stuff
@@ -16,6 +18,8 @@ coding style aman
 team9-4O
 
 Colin Bose - Tom Tang - Eunwon Moon
+
+Hi Eunwon
 
 
 #######################
