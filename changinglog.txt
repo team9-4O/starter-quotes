@@ -5,3 +5,5 @@ Feb. 2nd, 2016[5:58pm]  fix first thing
 Feb. 2nd, 2016[6:06pm] fix last link
 Feb. 2nd, 2016[6:19pm] fix sleep link
 Feb. 2nd, 2016[6:36pm] fix lockemup link 
+Feb. 2nd, 2016[6:48pm] fix show link
+Feb. 2nd, 2016[6:56pm] fix dunno link
