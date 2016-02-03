@@ -2,3 +2,4 @@ Date and time           what happen
 
 Feb. 2nd, 2016[3:51pm]  Initial forking of starter-quotes.
 Feb. 2nd, 2016[5:58pm]  fix first thing
+Feb. 2nd, 2016[6:06pm] fix last link
