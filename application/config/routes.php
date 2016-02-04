@@ -41,6 +41,7 @@ $route['default_controller'] = 'Welcome';
 $route['sleep'] = "First/zzz";
 $route['lock/*:any/*:any'] = "Welcome/shucks";
 $route['404_override'] = '';
+$route['(.{4})/bingo'] = 'Bingo';
 $route['show/(:num)'] = "First/gimme/$1";
 $route['dunno'] = function() 
     {
