@@ -37,13 +37,13 @@
 | in the URL cannot be matched to a valid route.
 |
 */
-$route['default_controller'] = 'Welcome';
-$route['sleep'] = "First/zzz";
-$route['lock/*:any/*:any'] = "Welcome/shucks";
+$route['default_controller'] = 'welcome';
+$route['sleep'] = "first/zzz";
+$route['lock/*:any/*:any'] = "welcome/shucks";
 $route['404_override'] = '';
-$route['(.{4})/bingo'] = 'Bingo';
+$route['(.{4})/bingo'] = 'bingo';
 $route['comp[0-9]+/[a-zA-Z0-9]*'] = 'wise/bingo';
-$route['show/(:num)'] = "First/gimme/$1";
+$route['show/(:num)'] = "first/gimme/$1";
 $route['dunno'] = function() 
     {
     $source = './data/thomas.jpg';
